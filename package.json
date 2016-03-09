@@ -1,0 +1,19 @@
+{
+  "name": "calendar-cli",
+  "version": "1.0.0",
+  "description": "Command-line calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "keywords": [
+    "calendar",
+    "gcal",
+    "ical"
+  ],
+  "author": "Viktor Varland",
+  "license": "ISC",
+  "devDependencies": {
+    "tap": "^5.7.0"
+  }
+}
